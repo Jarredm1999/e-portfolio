@@ -1,19 +1,19 @@
 export default [
   {
     title: "Terminal Website",
-    imgUrl: "/assets/dev-portfolio.jpg",
+    imgUrl: "/assets/IMG_0659FB.jpeg",
     stack: ["HTML", "CSS", "JavaScript"],
     link: "https://fkcodes.com",
   },
   {
-    title: "Terminal Website",
-    imgUrl: "/assets/dev-portfolio.jpg",
+    title: "Cloud Project",
+    imgUrl: "/assets/IMG_0659FB.jpeg",
     stack: ["HTML", "CSS", "JavaScript"],
     link: "https://fkcodes.com",
   },
   {
-    title: "Terminal Website",
-    imgUrl: "/assets/dev-portfolio.jpg",
+    title: "Cloud Security Project",
+    imgUrl: "/assets/IMG_0659FB.jpeg",
     stack: ["HTML", "CSS", "JavaScript"],
     link: "https://fkcodes.com",
   },
