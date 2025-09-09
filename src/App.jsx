@@ -4,12 +4,17 @@ import Contact from './components/Contact';
 import Footer from './components/Footer';
 import Timeline from './components/Timeline';
 import Portfolio from './components/Portfolio';
+
 import './App.css'
 
 function App() {
 
   return (
     <div className="App">
+      <Intro />
+      <Portfolio />
+      <Timeline />
+      <Contact />
       <Footer />
     </div>
   )
