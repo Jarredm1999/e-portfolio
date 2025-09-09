@@ -13,7 +13,7 @@ function TimelineItem({ year, title, duration, details }) {
          text-xs md:text-sm"
         >
           <span
-            className="inline-block px-2 py-1 ml-3 font-semibold text-white
+            className="inline-block px-2 py-1 font-semibold text-white
           bg-stone-900 rounded-md"
           >
             {year}
