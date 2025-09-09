@@ -32,7 +32,7 @@ function Contact() {
           ></textarea>
           <button
             type="button"
-            className="text-center inline-block px-8 py-3 w-max text-base font-medium rounded-md cursor-pointer hover:ouline-2 bg-gradient-to-r from-yellow-500 to-pink-500
+            className="text-center inline-block px-8 py-3 w-max text-base font-medium rounded-md cursor-pointer hover:drop-shadow-black transition-all duration-300 bg-gradient-to-r from-yellow-500 to-pink-500
              drop-shadow-md"
           >
             Work With Me
