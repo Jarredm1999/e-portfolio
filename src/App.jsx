@@ -7,7 +7,7 @@ import Portfolio from "./components/Portfolio";
 
 function App() {
   return (
-    <div className="bg-[#222831] text-[#DFD0B8] min-h-screen font-inter">
+    <div className="bg-[#222831] text-white min-h-screen font-inter">
       <div className="max-w-5xl w-11/12 mx-auto">
         <Intro />
         <Portfolio />
