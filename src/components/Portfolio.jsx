@@ -4,7 +4,7 @@ import PortfolioItem from "./PortfolioItem";
 import Title from "./Title";
 
 function Portfolio() {
-  return (
+  return portfolio.length > 0 ? (
     <div>
       <div className="justify-self-center">
         <Title>Projects</Title>
@@ -21,6 +21,16 @@ function Portfolio() {
             />
           ))}
         </div>
+      </div>
+    </div>
+  ) : (
+    // Display when there are no portfolios
+    <div>
+      <div className="justify-self-center">
+        <Title>Projects</Title>
+      </div>
+      <div className="justify-self-center">
+        <p>No projects to display at this time...</p>
       </div>
     </div>
   );
