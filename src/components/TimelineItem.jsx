@@ -13,12 +13,12 @@ function TimelineItem({ year, title, duration, details }) {
          text-xs md:text-sm"
         >
           <span
-            className="inline-block px-2 py-1 font-semibold text-white
-          bg-stone-900 rounded-md"
+            className="inline-block px-2 py-1 font-semibold text-stone-900
+          bg-[#DFD0B8] rounded-md"
           >
             {year}
           </span>
-          <h3 className="text-lg font-semibold text-stone-900">{title}</h3>
+          <h3 className="text-lg font-semibold text-white">{title}</h3>
           <div
             className="my-1 text-sm font-normal leading-none
           text-stone-400"
