@@ -12,7 +12,7 @@ function Header() {
             <a
               key={i}
               href={`#${item}`}
-              className="uppercase font-semibold text-base text-white text-center px-5 py-1 rounded-2xl transition-all ease-linear duration-300 hover:bg-[#78A083] hover:shadow-md"
+              className="uppercase font-semibold text-base text-white text-center px-5 py-1 ml-3 mr-3 rounded-md transition-all ease-linear duration-300 hover:bg-[#78A083] hover:shadow-md"
             >
               {item}
             </a>
