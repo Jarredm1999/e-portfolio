@@ -5,6 +5,7 @@ import Footer from "./components/Footer";
 import Timeline from "./components/Timeline";
 import Portfolio from "./components/Portfolio";
 import Header from "./components/Header";
+import Certifications from "./components/Certifications";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
         <Header />
         <Intro />
         <Portfolio />
+        {/* <Certifications /> */}
         <Timeline />
         <Contact />
         <Footer />
