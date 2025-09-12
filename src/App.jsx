@@ -4,11 +4,13 @@ import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import Timeline from "./components/Timeline";
 import Portfolio from "./components/Portfolio";
+import Header from "./components/Header";
 
 function App() {
   return (
     <div className="bg-[#222831] text-white min-h-screen font-inter">
       <div className="max-w-5xl w-11/12 mx-auto">
+        <Header />
         <Intro />
         <Portfolio />
         <Timeline />

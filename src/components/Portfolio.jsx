@@ -5,7 +5,7 @@ import Title from "./Title";
 
 function Portfolio() {
   return portfolio.length > 0 ? (
-    <div>
+    <div id="projects" className="scroll-mt-15">
       <div className="justify-self-center">
         <Title>Projects</Title>
       </div>
@@ -25,7 +25,7 @@ function Portfolio() {
     </div>
   ) : (
     // Display when there are no portfolios
-    <div>
+    <div id="projects" className="scroll-mt-15">
       <div className="justify-self-center">
         <Title>Projects</Title>
       </div>
