@@ -14,6 +14,13 @@ export default [
       "At Anglepoint, I enhanced the Elevate web platform by building features that improved stability, performance, and user experience. I collaborated in agile sprints and code reviews to deliver scalable, business aligned solutions.",
   },
   {
+    year: "Aug 2017 - Nov 2021",
+    title: "Tennessee State University - Computer Science",
+    duration: "",
+    details:
+      "I earned a B.S. in Computer Science (Summa Cum Laude, GPA 4.0) with coursework spanning Data Structures, Algorithms, Operating Systems, and Software Engineering. My studies also emphasized Computer Networks, Cryptography and Security, providing a strong foundation in both software development and cybersecurity",
+  },
+  {
     year: "May 2020 - Aug 2020",
     title: "Google - Software Engineer Intern",
     duration: "4 months",
