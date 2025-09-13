@@ -18,7 +18,7 @@ export default [
     title: "Tennessee State University - Computer Science",
     duration: "",
     details:
-      "I earned a B.S. in Computer Science (Summa Cum Laude, GPA 4.0) with coursework spanning Data Structures, Algorithms, Operating Systems, and Software Engineering. My studies also emphasized Computer Networks, Cryptography and Security, providing a strong foundation in both software development and cybersecurity",
+      "I earned a B.S. in Computer Science (Summa Cum Laude, GPA 4.0) with coursework spanning Data Structures, Algorithms, Operating Systems, and Software Engineering. My studies also emphasized Computer Networks, Cryptography and Security, providing a strong foundation in both software development and cybersecurity.",
   },
   {
     year: "May 2020 - Aug 2020",
