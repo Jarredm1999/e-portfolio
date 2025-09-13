@@ -1,22 +1,20 @@
 import React from "react";
 
-function CertificationItem(logo, name) {
+function CertificationItem({ logo, name, link }) {
   return (
     <a
-      href={"https://fkcodes.com"}
+      href={link}
       target="_blank"
       rel="noopener noreferrer"
-      className="border-2 border-[#948979] bg-[#31363F] rounded-md overflow-hidden hover:-translate-y-1.5 transition-all duration-300 cursor-pointer"
+      className="hover:-translate-y-1.5 transition-all duration-300 cursor-pointer"
     >
       <img
         src={logo}
-        alt="portfolio"
-        className="w-full h-36 md:h-48 object-cover cursor-pointer"
+        alt="certification"
+        className="h-26 md:h-38 object-cover cursor-pointer justify-self-center"
       />
       <div className="w-full p-4">
-        <h3 className="justify-self-center text-lg md:text-xl font-semibold">
-          {name}
-        </h3>
+        <p className="justify-self-center text-base font-semibold">{name}</p>
       </div>
     </a>
   );

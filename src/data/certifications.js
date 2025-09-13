@@ -1,20 +1,14 @@
+// make sure to add '/e-portfolio' before image path
+
 export default [
   {
-    logo: "/assets/security+.png",
+    logo: "/e-portfolio/assets/securityplus.png",
     name: "CompTIA Security+",
+    link: "https://drive.google.com/file/d/1oKLMCl8XL1J0XarCFYUN2JLSVdXjKSJp/view?usp=sharing",
   },
   // {
-  //   title: "Cloud Project",
-  //   imgUrl: "/assets/IMG_0659FB.jpeg",
-  //   desc: "This is a small desc...",
-  //   stack: ["HTML", "CSS", "JavaScript"],
-  //   link: "https://fkcodes.com",
-  // },
-  // {
-  //   title: "Cloud Security Project",
-  //   imgUrl: "/assets/IMG_0659FB.jpeg",
-  //   desc: "This is a small desc...",
-  //   stack: ["HTML", "CSS", "JavaScript"],
-  //   link: "https://fkcodes.com",
+  //   logo: "/e-portfolio/assets/az900.png",
+  //   name: "Azure Fundamentals (AZ-900)",
+  //   link: "https://drive.google.com/file/d/1oKLMCl8XL1J0XarCFYUN2JLSVdXjKSJp/view?usp=sharing",
   // },
 ];
