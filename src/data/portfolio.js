@@ -1,25 +1,11 @@
 // make sure to add '/e-portfolio' before image path
 
 export default [
-  //   {
-  //     title: "Terminal Website",
-  //     imgUrl: "/e-portfolio/assets/IMG_0659FB.jpeg",
-  //     desc: "This is a small desc...",
-  //     stack: ["HTML", "CSS", "JavaScript"],
-  //     link: "https://fkcodes.com",
-  //   },
-  //   {
-  //     title: "Cloud Project",
-  //     imgUrl: "/e-portfolio/assets/IMG_0659FB.jpeg",
-  //     desc: "This is a small desc...",
-  //     stack: ["HTML", "CSS", "JavaScript"],
-  //     link: "https://fkcodes.com",
-  //   },
-  //   {
-  //     title: "Cloud Security Project",
-  //     imgUrl: "/e-portfolio/assets/IMG_0659FB.jpeg",
-  //     desc: "This is a small desc...",
-  //     stack: ["HTML", "CSS", "JavaScript"],
-  //     link: "https://fkcodes.com",
-  //   },
+  {
+    title: "Azure Honeypot + Attack Map",
+    imgUrl: "/e-portfolio/assets/ld-final-diagram.png",
+    desc: "Used Azure to plumb Microsoft Security Events to a Map.",
+    stack: ["Azure", "Microsoft Sentinel", "NSG", "VM"],
+    link: "https://github.com/Jarredm1999/SOC-Honeypot-Lab",
+  },
 ];
