@@ -3,7 +3,7 @@
 export default [
   {
     title: "AWS Secure VPC + IDS",
-    imgUrl: "/e-portfolio/assets/ld-final-diagram.png",
+    imgUrl: "/e-portfolio/assets/AWS%20Secure%20Network%20+%20IDS.drawio.png",
     desc: "Created a secure VPC architecture, created IDS with metrics and alerts.",
     stack: ["AWS", "VPC", "EC2", "GuardDuty", "FlowLogs", "CloudWatch"],
     link: "https://github.com/Jarredm1999/Secure-VPC-with-IDS",
