@@ -9,7 +9,7 @@ export default [
   {
     logo: "/e-portfolio/assets/aws-certified-cloud-practitioner.png",
     name: "AWS Cloud Practitioner",
-    link: "",
+    link: "https://drive.google.com/file/d/1mBWkG988mljqJdyulIHqODAZSrmYV4D9/view?usp=sharing",
   },
   {
     logo: "/e-portfolio/assets/az900.png",
