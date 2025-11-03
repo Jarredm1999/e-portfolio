@@ -7,6 +7,11 @@ export default [
     link: "https://drive.google.com/file/d/1oKLMCl8XL1J0XarCFYUN2JLSVdXjKSJp/view?usp=sharing",
   },
   {
+    logo: "/e-portfolio/assets/aws-certified-cloud-practitioner.png",
+    name: "AWS Cloud Practitioner",
+    link: "",
+  },
+  {
     logo: "/e-portfolio/assets/az900.png",
     name: "Azure Fundamentals (AZ-900)",
     link: "https://drive.google.com/file/d/10p6yuIsezovO8lQlLXY7PrP1RwRADY2Z/view?usp=sharing",
